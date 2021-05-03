@@ -16,3 +16,12 @@ The source code for Periodic Table project in C++ is simple and understandable, 
 consists of around 100 lines of code. The code should be compiled in Code::Blocks
 Integrated Development Environment (IDE) in which the project was developed by using
 GCC compiler
+![github-small](https://github.com/shahriarhus/Periodic-Table-in-console-using-Cpp/blob/main/flowchart%20screenshot.png)
+
+![github-small](https://github.com/shahriarhus/Periodic-Table-in-console-using-Cpp/blob/main/screenshot%201.png)
+
+![github-small](https://github.com/shahriarhus/Periodic-Table-in-console-using-Cpp/blob/main/screenshot%202.png)
+
+![github-small](https://github.com/shahriarhus/Periodic-Table-in-console-using-Cpp/blob/main/screenshot%203.png)
+
+![github-small](https://github.com/shahriarhus/Periodic-Table-in-console-using-Cpp/blob/main/screenshot%204.png)
